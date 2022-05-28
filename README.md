@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCot1Zt11Z12HQb2PvrWCyCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=LyraGuard.com&style=for-the-badge&url=http%3A%2F%2Flyraguard.co.uk)](http://www.lyraguard.co.uk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdannypilkingt0nr&screen_name=dannypilkingt0n)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
 
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
