@@ -17,10 +17,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.lyraguard.co.uk)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/UCot1Zt11Z12HQb2PvrWCyCw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/UCot1Zt11Z12HQb2PvrWCyCw#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://www.lyraguard.co.uk)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/lyraguard#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/lyraguard#gh-dark-mode-only)
