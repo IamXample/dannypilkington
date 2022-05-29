@@ -47,17 +47,17 @@
 ---
 
 
-  <summary>:zap: Recent Discord Activity</summary>
+  <summary>:zap:Join Our Discord Community</summary>
   
 <img src="https://discordapp.com/api/guilds/978238554100625459/widget.png?style=banner3" alt="Discord Banner 3"/>
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="dannypilkington's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dannypilkington&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+
 
 [website]: http://www.lyraguard.co.uk
 [course]: http://vsCodeHero.com
