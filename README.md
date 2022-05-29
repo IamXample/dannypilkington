@@ -1,5 +1,7 @@
 # Hi there, I'm Danny - aka [D&nny#3692][Discord] 👋 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F7C3&center=true&vCenter=true&lines=Full+Time+Project+Developer+Lead;Father+and+Partner;Looking+to+collaborate+with+others;I+love+to+go+on+adventures!)](https://git.io/typing-svg)
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCot1Zt11Z12HQb2PvrWCyCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=LyraGuard.com&style=for-the-badge&url=http%3A%2F%2Flyraguard.co.uk)](http://www.lyraguard.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
@@ -7,7 +9,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Partner, Father, Developer, and Project Lead!!
+## Learn about what i love to do:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators & Developers
@@ -55,8 +57,21 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="dannypilkington's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dannypilkington&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <a href="https://github.com/dannypilkington/LyraGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypilkington&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/dannypikington/LyraGuardWebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannypilkington&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
+<a href="https://github.com/dannypilkington/fivem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannypilkington&repo=fivem&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/dannypilkington/LyraGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannypilkington&repo=Lyra-Guard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 
 [website]: http://www.lyraguard.co.uk
