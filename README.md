@@ -47,9 +47,10 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recent Discord Activity</summary>
   
 <!--START_SECTION:activity-->
+  <img src="https://discordapp.com/api/guilds/[978238554100625459]/widget.png?style=banner3" alt="Discord Banner 3"/>
 <!--END_SECTION:activity-->
 
 </details>
