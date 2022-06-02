@@ -65,7 +65,7 @@
 
   <summary>:zap:Join Our Discord Community</summary>
   
-<img src="https://discordapp.com/api/guilds/978238554100625459/widget.png?style=banner3" alt="Discord Banner 3"/>
+<img src="https://discordapp.com/api/guilds/978238554100625459/widget.png?style=banner2" alt="Discord Banner 3"/>
 
 
 
