@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F7C3&center=true&vCenter=true&lines=Full+Time+Project+Developer+Lead;Father+and+Partner;Looking+to+collaborate+with+others;I+love+to+go+on+adventures!)](https://git.io/typing-svg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCot1Zt11Z12HQb2PvrWCyCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=http%3A%2F%2Flyraguard.co.uk)](https://panel.lyraguard.co.uk)
+[![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=https%3A%2F%2Fpanel.lyraguard.co.uk)](https://panel.lyraguard.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
 
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
@@ -11,20 +10,18 @@
 
 ## Learn about what i love to do:
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators & Developers
 - 🥅 2022 Goals: Learn more about python & php
 - ⚡ Fun fact: I love to go on adventures!
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://www.panel.lyraguard.co.uk)
+[LyraGuard Hosting](https://www.panel.lyraguard.co.uk)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/lyraguard#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/lyraguard#gh-dark-mode-only)
+[Twitter](https://twitter.com/lyraguard)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/danpilkingt0n#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/danpilkingt0n#gh-dark-mode-only)
+[Instagram](https://instagram.com/danpilkingt0n)
+
 
 ### Languages and Tools:
 
