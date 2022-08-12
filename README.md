@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://www.lyraguard.co.uk)
+[![website](./img/globe-light.svg)](http://www.panel.lyraguard.co.uk)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/lyraguard#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/lyraguard#gh-dark-mode-only)
@@ -66,10 +66,6 @@
   <summary>:zap:Join Our Discord Community</summary>
   
 <img src="https://discordapp.com/api/guilds/978238554100625459/widget.png?style=banner2" alt="Discord Banner 3"/>
-
-<summary>:zap:Join Our NFT Discord Community</summary>
-  
-<img src="https://discordapp.com/api/guilds/981963222234062858/widget.png?style=banner2" alt="Discord Banner 3"/>
 
 
   <summary>:zap: Danny's GitHub Stats</summary>
