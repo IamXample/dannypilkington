@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F7C3&center=true&vCenter=true&lines=Full+Time+Project+Developer+Lead;Father+and+Partner;Looking+to+collaborate+with+others;I+love+to+go+on+adventures!)](https://git.io/typing-svg)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCot1Zt11Z12HQb2PvrWCyCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=LyraGuard Hosting&style=for-the-badge&url=http%3A%2F%2Flyraguard.co.uk)](http://www.panel.lyraguard.co.uk)
+[![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=http%3A%2F%2Flyraguard.co.uk)](http://www.panel.lyraguard.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
 
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
