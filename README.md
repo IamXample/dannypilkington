@@ -21,7 +21,8 @@
 [Twitter](https://twitter.com/lyraguard)
 &nbsp;&nbsp;
 [Instagram](https://instagram.com/danpilkingt0n)
-
+&nbsp;&nbsp;
+[Community Discord](https://discord.gg/GQQ7PRSavp)
 
 ### Languages and Tools:
 
