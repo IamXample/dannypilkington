@@ -85,7 +85,7 @@
 
 
 
-[website]: http://www.lyraguard.co.uk
+[website]: https://panel.lyraguard.co.uk
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/lyraguard
 [youtube]: https://youtube.com/UCot1Zt11Z12HQb2PvrWCyCw
