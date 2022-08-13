@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with other content creators & Developers
 - 🥅 2022 Goals: Learn more about python & php
-- ⚡ Fun fact: I love to go on adventures!
+- ⚡ Fun fact: I love to go on adventures and to develop new code for people!
 
 ### Connect with me:
 
