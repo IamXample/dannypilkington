@@ -62,7 +62,7 @@
 
   <summary>:zap:Join Our Discord Community</summary>
   
-<img src="https://discordapp.com/api/guilds/978238554100625459/widget.png?style=banner2" alt="Discord Banner 3"/>
+<img src="https://discordapp.com/api/guilds/1007910062376882226/widget.png?style=banner2" alt="Discord Banner 3"/>
 
 
   <summary>:zap: Danny's GitHub Stats</summary>
