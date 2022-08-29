@@ -2,12 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F7C3&center=true&vCenter=true&lines=Full+Time+Project+Developer+Lead;Father+and+Partner;Looking+to+collaborate+with+others;I+love+to+go+on+adventures!)](https://git.io/typing-svg)
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/lyraguard"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/Vd8qcKd23z" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://panel.lyraguard.co.uk"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 [![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=https%3A%2F%2Fpanel.lyraguard.co.uk)](https://panel.lyraguard.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
+<!-- Social badges section -->
 <!-- View counter - https://github.com/dannypilkington/Simple-View-Counter -->
 <!-- Star counter - https://github.com/dannypilkington/GitHub-Star-Counter -->
+<a href="https://github.com/dannypilkington?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dannypilkington"/></a>
+  <a href="https://github.com/dannypilkington?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dannypilkington?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/dannypilkington/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
 ## Learn about what i love to do:
@@ -15,16 +32,6 @@
 - 👯 I’m looking to collaborate with other content creators & Developers
 - 🥅 2022 Goals: Learn more about python & php
 - ⚡ Fun fact: I love to go on adventures and to develop new code for people!
-
-### Connect with me:
-
-[LyraGuard Hosting](https://www.panel.lyraguard.co.uk)
-&nbsp;&nbsp;
-[Twitter](https://twitter.com/lyraguard)
-&nbsp;&nbsp;
-[Instagram](https://instagram.com/danpilkingt0n)
-&nbsp;&nbsp;
-[Community Discord](https://discord.gg/GQQ7PRSavp)
 
 ### Languages and Tools:
 
