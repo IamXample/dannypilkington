@@ -4,6 +4,8 @@
 
 [![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=https%3A%2F%2Fpanel.lyraguard.co.uk)](https://panel.lyraguard.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
+<!-- View counter - https://github.com/dannypilkington/Simple-View-Counter -->
+<!-- Star counter - https://github.com/dannypilkington/GitHub-Star-Counter -->
 
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
