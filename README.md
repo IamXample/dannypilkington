@@ -148,20 +148,7 @@
 
   <summary>:zap: Danny's GitHub Stats</summary>
 
-  <a href="https://github.com/dannypilkington/LyraGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannypilkington&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/dannypikington/LyraGuardWebsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dannypilkington&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/dannypilkington/fivem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannypilkington&repo=fivem&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/dannypilkington/LyraGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dannypilkington&repo=Lyra-Guard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannypilkington&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </a>    
 
 
