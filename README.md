@@ -141,10 +141,9 @@
 ---
 
 
-  <summary>:zap:Join Our Discord Community</summary>
+  <summary>:zap:Find me on Discord</summary>
   
-<img src="https://discordapp.com/api/guilds/1059458317107343380/widget.png?style=banner2" alt="https://discord.gg/GQQ7PRSavp"/>
-<img src="https://discord.c99.nl/widget/theme-1/1059458317107343380.png">
+<img src="https://discord.c99.nl/widget/theme-1/1059453832112910366.png">
 
   <summary>:zap: Danny's GitHub Stats</summary>
 
