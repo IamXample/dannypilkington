@@ -8,11 +8,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Vd8qcKd23z" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://panel.lyraguard.co.uk"><img width="32px" alt="Dev.to" title="LyraGuard Hosting" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://discord.gg/XJXxB2bbVM"><img width="32px" alt="Dev.to" title="X-Ample Community" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=https%3A%2F%2Fpanel.lyraguard.co.uk)](https://panel.lyraguard.co.uk)
+[![Website](https://img.shields.io/website?label=LyraGuard&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/XJXxxB2bbVM)](https://discord.gg/XJXxB2bbVM)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyraguard?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flyraguardr&screen_name=lyraguard)
 <!-- Social badges section -->
 <!-- View counter - https://github.com/dannypilkington/Simple-View-Counter -->
