@@ -143,8 +143,8 @@
 
   <summary>:zap:Join Our Discord Community</summary>
   
-<img src="https://discordapp.com/api/guilds/1007910062376882226/widget.png?style=banner2" alt="https://discord.gg/GQQ7PRSavp"/>
-<img src="https://discord.c99.nl/widget/theme-1/1007756245530316900.png">
+<img src="https://discordapp.com/api/guilds/1059458317107343380/widget.png?style=banner2" alt="https://discord.gg/GQQ7PRSavp"/>
+<img src="https://discord.c99.nl/widget/theme-1/1059458317107343380.png">
 
   <summary>:zap: Danny's GitHub Stats</summary>
 
