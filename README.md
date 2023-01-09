@@ -4,11 +4,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/lyraguard"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/dannyxample"><img width="32px" alt="Twitter" title="X-Ample Development" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Vd8qcKd23z" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/XJXxB2bbVM"><img width="32px" alt="Dev.to" title="X-Ample Community" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://discord.gg/XJXxB2bbVM"><img width="32px" alt="Dev.to" title="X-Ample Development Community" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
