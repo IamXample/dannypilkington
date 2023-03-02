@@ -1,4 +1,4 @@
-# Hi there, I'm Danny - aka [DannyTheDeveloper#3719][Discord](https://discord.gg/XJXxB2bbVM) 👋 
+# Hi there, I'm Danny - aka [DannyDeveloper#8010][Discord](https://discord.gg/XJXxB2bbVM) 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=11F7C3&center=true&vCenter=true&lines=Full+Time+Project+Developer+Lead;Father+and+Partner;Looking+to+collaborate+with+others;I+love+to+go+on+adventures!)](https://git.io/typing-svg)
 
