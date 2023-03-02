@@ -143,7 +143,7 @@
 
   <summary>:zap:Find me on Discord</summary>
   
-<img src="https://discord.c99.nl/widget/theme-1/1059453832112910366.png">
+<img src="https://discord.c99.nl/widget/theme-1/1059503129672040458.png">
 
   <summary>:zap: Danny's GitHub Stats</summary>
 
